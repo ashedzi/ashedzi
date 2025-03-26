@@ -8,7 +8,7 @@ experience in design and development, I enjoy bringing ideas to life through bot
 visuals. 
 
 I’m always exploring new ways to make technology more user-friendly and impactful. Would you
-like to know more? Get in touch. I look forward to hearing from you.
+like to know more? Get in touch with me via my email solomonashe84@gmail.com. I look forward to hearing from you.
 
 ### My skills
 <p>
