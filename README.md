@@ -5,10 +5,10 @@
 Hi there, I’m Ashedzi a UI/UX designer and Software Developer who loves creating smooth, 
 easy-to-use digital experiences. With a background in computer science and hands-on 
 experience in design and development, I enjoy bringing ideas to life through both code and 
-visuals. I’m always exploring new ways to make technology more user-friendly and impactful. 
+visuals. 
 
-Would you like to know more? Get in touch. I look forward to hearing 
-from you.
+I’m always exploring new ways to make technology more user-friendly and impactful. Would you
+like to know more? Get in touch. I look forward to hearing from you.
 
 ### My skills
 <p>
