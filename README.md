@@ -1,4 +1,4 @@
-![](./header.jpg)
+![](./header2.jpg)
 
 ## About me
 
