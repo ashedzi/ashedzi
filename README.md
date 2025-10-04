@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi there! I’m Ashedzi — a UI/UX Designer and Software Developer who loves creating smooth, easy-to-use 
+I’m Ashedzi, a UI/UX Designer and Software Developer who loves creating smooth, easy-to-use 
 digital experiences. With a background in Computer Science and hands-on experience in both 
 design and development, I enjoy bringing ideas to life through code and visuals.
 
@@ -12,7 +12,7 @@ always to make something that not only works, but feels right to use.
 
 
 I’m ready to start my career as a Junior Software Developer, combining my design and coding skills 
-to build projects that matter — and keep learning along the way.
+to build projects that matter and keep learning along the way.
 
 
 Interested in working together? Contact me at solomonashe84@gmail.com. 
