@@ -23,6 +23,12 @@ like to know more? Get in touch with me via my email solomonashe84@gmail.com. I 
   <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=9F74DA")/>&nbsp;
 </p>
 
+### Ashedzi's GitHub Stats
+![Ashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### My Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
 ##
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashedzi&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
