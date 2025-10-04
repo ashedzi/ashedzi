@@ -24,10 +24,10 @@ like to know more? Get in touch with me via my email solomonashe84@gmail.com. I 
 </p>
 
 ### Ashedzi's GitHub Stats
-![Ashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Ashe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashedzi&show_icons=true&theme=radical)
 
 ### My Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashedzi&layout=compact&theme=radical)
 
 ##
 
