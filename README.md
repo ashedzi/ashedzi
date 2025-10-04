@@ -5,10 +5,11 @@
 Hi there, I’m Ashedzi a UI/UX designer and Software Developer who loves creating smooth, 
 easy-to-use digital experiences. With a background in computer science and hands-on 
 experience in design and development, I enjoy bringing ideas to life through both code and 
-visuals. 
+visuals. I’m eager to contribute as a Junior Software Developer, where I can combine my design 
+and development skills to build impactful solutions while continuing to grow in the field.
 
-I’m always exploring new ways to make technology more user-friendly and impactful. Would you
-like to know more? Get in touch with me via my email solomonashe84@gmail.com. I look forward to hearing from you.
+Interested in working together? Contact me at solomonashe84@gmail.com. 
+I look forward to hearing from you.
 
 ### My skills
 <p>
